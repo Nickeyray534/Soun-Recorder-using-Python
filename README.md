@@ -1,4 +1,4 @@
-# Soun-Recorder-using-Python
+# Sound-Recorder-using-Python
 To create voice recorder in Python, the following are the required libraries −
 sounddevice − The sounddevice library will be used for capturing audio.
 scipy − This library will be used for writing WAV files using write.
